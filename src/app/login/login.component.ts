@@ -41,7 +41,7 @@ export class LoginComponent implements OnInit {
 
   }
 
-  //login
+  //login_page
   // login() {
   //   var acno = this.acno
   //   var pswd = this.pswd
